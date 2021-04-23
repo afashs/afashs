@@ -1,7 +1,7 @@
 <h1 align="center"> :bulb: 서정욱 [afashs] :bulb:</h1>
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=ReadMe%3F&edge_flat=false)](https://github.com/afashs)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=today/total&edge_flat=false)](https://github.com/afashs)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://velog.io/@afashs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jung-wook-seo-5579061a8/)](https://www.linkedin.com/in/jung-wook-seo-5579061a8/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)](https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)
