@@ -7,7 +7,7 @@
 
 </div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&lofoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://velog.io/@afashs)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://velog.io/@afashs)
 
 <!-- <a href="https://velog.io/@afashs">
 <img src="https://img.shields.io/badge/블로그-https://velog.io/@afashs-blue?logo=Blogger&logoColor=white"/>
