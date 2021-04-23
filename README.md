@@ -1,7 +1,7 @@
 <div align=center>
 
-# :paperclip: Portfolio
-## 팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다. 
+#  Portfolio
+## :paperclip: 팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다. 
 
 </div>
 
