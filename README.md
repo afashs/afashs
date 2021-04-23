@@ -1,6 +1,6 @@
 <div align=center>
 
-## :bulb: Connect
+## :bulb: Connect Me :bulb:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=today+/+total&edge_flat=false)](https://github.com/afashs)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://velog.io/@afashs)
@@ -40,4 +40,4 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en" alt="afashs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en" alt="afashs" /></p>
