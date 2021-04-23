@@ -9,8 +9,6 @@
 <h1 align="center">Hi 👋, I'm 서정욱 [afashs]</h1>
 <h3 align="center">팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자입니다</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afashs&label=Profile%20views&color=0e75b6&style=flat" alt="afashs" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/afashs](https://github.com/afashs)
 
 - 📝 블로그 [https://velog.io/@afashs](https://velog.io/@afashs)
