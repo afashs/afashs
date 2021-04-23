@@ -8,7 +8,7 @@
 </div>
 
 <a href="https://velog.io/@afashs">
-<img src="https://img.shields.io/badge/블로그-https://velog.io/@afashs-blue?logo=Blogger&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/블로그-https://velog.io/@afashs-blue?logo=Blogger&logoColor=white"/>
 </a>
 :mailbox_with_mail: 이메일 [dev.afashs@gmail.com](mailto:dev.afashs@gmail.com)
 
