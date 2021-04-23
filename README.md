@@ -9,13 +9,13 @@
 <h1 align="center">Hi 👋, I'm 서정욱 [afashs]</h1>
 <h3 align="center">팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자입니다</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/afashs](https://github.com/afashs)
+- 👨‍💻 프로젝트 목록 [https://github.com/afashs](https://github.com/afashs)
 
 - 📝 블로그 [https://velog.io/@afashs](https://velog.io/@afashs)
 
-- 💬 Ask me about **react, nodejs,**
+- 💬 주요 스택 **react, nodejs, java, php**
 
-- 📫 How to reach me **dev.afashs@gmail.com**
+- 📫 이메일 **dev.afashs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
