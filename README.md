@@ -40,6 +40,4 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
  -->
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" /></span>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en" alt="afashs" /></span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en" alt="afashs" /></p>
