@@ -1,5 +1,7 @@
-<h1 align="center"> :bulb: 서정욱 [afashs] :bulb:</h1>
+<h1 align="center"> :bulb: 서정욱 [afashs] </h1>
 <div align=center>
+
+## Connect
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=today+/+total&edge_flat=false)](https://github.com/afashs)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://velog.io/@afashs)
@@ -12,18 +14,7 @@
 	
 </div>
 
-<!-- <a href="https://velog.io/@afashs">
-<img src="https://img.shields.io/badge/블로그-https://velog.io/@afashs-blue?logo=Blogger&logoColor=white"/>
-</a> -->
-
-:mailbox_with_mail: 이메일 [dev.afashs@gmail.com](mailto:dev.afashs@gmail.com)
-
-## Connect
-<a href="https://linkedin.com/in/jung-wook-seo-5579061a8" target="blank">링크드인</a>
-<a href="https://fb.com/dev.afashs" target="blank">페이스북</a>
-<a href="https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ" target="blank">유튜브</a>
-
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -48,7 +39,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
+ -->
 
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" /></span>
 
