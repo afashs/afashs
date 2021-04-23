@@ -7,8 +7,9 @@
 
 </div>
 
-:scroll: 블로그 [https://velog.io/@afashs](https://velog.io/@afashs)
-
+<a href="https://velog.io/@afashs">
+<img src="https://img.shields.io/badge/블로그-https://velog.io/@afashs-blue?logo=Blogger&logoColor=white"/>
+</a>
 :mailbox_with_mail: 이메일 [dev.afashs@gmail.com](mailto:dev.afashs@gmail.com)
 
 ## Connect
