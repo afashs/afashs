@@ -1,3 +1,4 @@
+![개인발표-012](https://user-images.githubusercontent.com/56165665/116006530-a0c33000-a646-11eb-8147-a54a7bd9e0fb.png)
 <div align=center>
 
 # [:paperclip: Portfolio](https://github.com/afashs/portfolio)
