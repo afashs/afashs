@@ -1,4 +1,3 @@
-[![portfolio](https://user-images.githubusercontent.com/56165665/116006662-29da6700-a647-11eb-9c38-07cb1f2c1ab4.png)](https://github.com/afashs/portfolio)
 
 <div align=center>
 
