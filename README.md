@@ -1,12 +1,8 @@
 <div align=center>
 
-###  팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다. 
-
-</div>
-
-<div align=center>
-
 # [:paperclip: Portfolio](https://github.com/afashs/portfolio)
+
+###  팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다. 
 
 </div>
 
