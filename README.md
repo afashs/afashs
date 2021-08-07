@@ -25,8 +25,6 @@
 &nbsp;
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)](https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)
 &nbsp;
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCY2doudlBdxzlvuHldrOrxQ?color=%23fff&label=views&logo=Youtube&logoColor=%23ff0000&style=social)](https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)
-&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dev.afashs)](https://www.facebook.com/dev.afashs)
 &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.afashs/)](https://www.instagram.com/dev.afashs/) 
