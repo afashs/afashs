@@ -31,8 +31,4 @@
 
 <div align=center>
 
-## :open_file_folder: GitHub Activity
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en" alt="afashs" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact" alt="afashs" /></p>
-
-</div>
+## :open_file_folder: Comming soon...
