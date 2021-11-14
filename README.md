@@ -3,10 +3,10 @@
 
 # [:paperclip: Portfolio](https://github.com/afashs/portfolio)
 
-###  팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다.
+## JavaScript 개발자 서정욱입니다.
 
-### (주)엠티커뮤니케이션 에서 spring, mysql, linux 백엔드 개발, react 웹 프론트 개발을 담당하고 있습니다.
-	
+### (주)엠티커뮤니케이션 에서 java, mysql, linux 서버 백엔드, react 웹 프론트를 담당하고 있습니다.
+
 </div>
 
 <div align=center>
