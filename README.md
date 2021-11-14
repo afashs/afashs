@@ -15,7 +15,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=instacart.svg&icon_color=%23E7E7E7&title=today+/+total&edge_flat=false)](https://github.com/afashs)
 &nbsp;
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://velog.io/@afashs)](https://afashs.oopy.io)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://afashs.github.io)](https://afashs.github.io)
 &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jung-wook-seo-5579061a8/)](https://www.linkedin.com/in/jung-wook-seo-5579061a8/)
 &nbsp;
