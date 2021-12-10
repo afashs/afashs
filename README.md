@@ -17,18 +17,8 @@
 &nbsp;
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://afashs.github.io)](https://afashs.github.io)
 &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jung-wook-seo-5579061a8/)](https://www.linkedin.com/in/jung-wook-seo-5579061a8/)
-&nbsp;
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)](https://www.youtube.com/channel/UCY2doudlBdxzlvuHldrOrxQ)
-&nbsp;
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dev.afashs)](https://www.facebook.com/dev.afashs)
-&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.afashs/)](https://www.instagram.com/dev.afashs/) 
-&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.afshs@gmail.com)](mailto:dev.afashs@gmail.com)
 	
 </div>
 
 <div align=center>
-
-## :open_file_folder: Comming soon...
