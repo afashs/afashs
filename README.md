@@ -10,6 +10,10 @@
 
 #### (주)카카오엔터프라이즈 에서 카카오워크 백엔드 개발을 담당하고 있습니다.
 
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+	
 </div>
 
 
