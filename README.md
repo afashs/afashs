@@ -23,7 +23,7 @@
 	
 </div>
 
-![정보처리기사](https://img.shields.io/badge/-정보처리기사_(Engineer_Information_Processing)-black?style=for-the-badge)
+
 
 ## :open_file_folder: GitHub Activity
 
@@ -32,7 +32,19 @@
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=afashs&show_icons=true&locale=en&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" 
 	     width="50%"  alt="afashs" />&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5"  width="42%" alt="afashs" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=afashs&show_icons=true&locale=en&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5"  width="42%" alt="afashs" />
 </p>
 	
 </div>
+
+## :open_file_folder: certificate
+
+<p>
+
+	<img src="https://i.imgur.com/tUFBdLD.png" alt="afashs" width="33%"/>&nbsp;
+	<img src="https://i.imgur.com/2sVm29e.jpg" alt="afashs" width="33%"/>&nbsp;
+	<img src="https://i.imgur.com/bD3axUC.jpg" alt="afashs" width="48%"/>&nbsp;
+</p>
+	
+</div>
+
