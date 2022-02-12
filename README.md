@@ -23,6 +23,8 @@
 	
 </div>
 
+![정보처리기사](https://img.shields.io/badge/-정보처리기사_(Engineer_Information_Processing)-black?style=for-the-badge)
+
 ## :open_file_folder: GitHub Activity
 
 <div align=center>
