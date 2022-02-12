@@ -40,10 +40,9 @@
 ## :open_file_folder: certificate
 
 <p>
-
-	<img src="https://i.imgur.com/tUFBdLD.png" alt="afashs" width="33%"/>&nbsp;
-	<img src="https://i.imgur.com/2sVm29e.jpg" alt="afashs" width="33%"/>&nbsp;
-	<img src="https://i.imgur.com/bD3axUC.jpg" alt="afashs" width="48%"/>&nbsp;
+	<img src="https://i.imgur.com/tUFBdLD.png" alt="afashs" width="32%"/>&nbsp;
+	<img src="https://i.imgur.com/2sVm29e.jpg" alt="afashs" width="32%"/>&nbsp;
+	<img src="https://i.imgur.com/bD3axUC.jpg" alt="afashs" width="32%"/>&nbsp;
 </p>
 	
 </div>
