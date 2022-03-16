@@ -14,7 +14,8 @@
 
 	
 	
-### JavaScript 개발자 서정욱입니다.
+### I'm Marvin.seo, a backend software engineer.
+	Kakao Enterprise Co. Ltd. is in charge of developing Backend API of Coworking Tools
 
 #### (주)카카오엔터프라이즈 에서 카카오워크 백엔드 개발을 담당하고 있습니다.
 
