@@ -11,7 +11,9 @@
 
 <div align=center>
 
-
+# 22. 05. 07. 새로운 계정으로 이관 했습니다 
+## https://github.com/marvin-seo
+## https://www.linkedin.com/in/marvin-seo-98401b23a/
 	
 	
 ### I'm Marvin.seo, a backend software engineer.
