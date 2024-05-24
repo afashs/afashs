@@ -46,6 +46,8 @@
 	<img src="https://i.imgur.com/GRRAKZO.png" alt="afashs" width="32%"/>&nbsp;
 	<img src="https://i.imgur.com/gVqsAZQ.png" alt="afashs" width="32%"/>&nbsp;
 	<img src="https://i.imgur.com/DpZWqG5.jpg" alt="afashs" width="32%"/>&nbsp;
+	<img src="https://verify.w3schools.com/1OUGJKC4EO" alt="afashs" width="32%"/>&nbsp;
+	
 </p>
 	
 </div>
