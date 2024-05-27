@@ -47,7 +47,5 @@
 	<img src="https://i.imgur.com/gVqsAZQ.png" alt="afashs" width="32%"/>&nbsp;
 	<img src="https://i.imgur.com/DpZWqG5.jpg" alt="afashs" width="32%"/>&nbsp;
 	<img src="https://github.com/afashs/afashs/assets/56165665/cf67f572-790c-4b27-9361-d200d9e73602" alt="afashs" width="32%"/>&nbsp;
-	<img src="https://github.com/afashs/afashs/files/15450245/certificate_of_completion_vue.js.pdf" alt="afashs" width="32%"/>&nbsp;
-
-
+	<img src="https://github.com/afashs/afashs/assets/56165665/02a4bedc-1b89-4a00-b07f-f74bdd1a699c" alt="afashs" width="32%"/>&nbsp;
 </div>
