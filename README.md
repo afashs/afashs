@@ -1,12 +1,4 @@
 
-
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=black&title_bg=black&icon=instacart.svg&icon_color=%23E7E7E7&title=today+/+total&flat_square=false)](https://github.com/afashs)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://afashs.github.io)](https://afashs.github.io)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.afshs@gmail.com)](mailto:dev.afashs@gmail.com)
-	
-</div>
 <div align=center>
 	
 ### I'm Marvin.seo, a software engineer.
