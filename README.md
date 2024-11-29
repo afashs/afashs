@@ -10,7 +10,7 @@
 
 #### 국민은행 주관 K-digital Training 과정 주 강사
 
-### [:paperclip: Portfolio](https://github.com/afashs/portfolio)
+### [:paperclip: Portfolio](https://github.com/marvin-seo-dev)
 	
 	
 </div>
